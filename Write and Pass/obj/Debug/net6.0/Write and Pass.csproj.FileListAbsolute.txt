@@ -1,0 +1,15 @@
+C:\Users\aleks\OneDrive\Desktop\Seminar004\Write and Pass\bin\Debug\net6.0\Write and Pass.exe
+C:\Users\aleks\OneDrive\Desktop\Seminar004\Write and Pass\bin\Debug\net6.0\Write and Pass.deps.json
+C:\Users\aleks\OneDrive\Desktop\Seminar004\Write and Pass\bin\Debug\net6.0\Write and Pass.runtimeconfig.json
+C:\Users\aleks\OneDrive\Desktop\Seminar004\Write and Pass\bin\Debug\net6.0\Write and Pass.dll
+C:\Users\aleks\OneDrive\Desktop\Seminar004\Write and Pass\bin\Debug\net6.0\Write and Pass.pdb
+C:\Users\aleks\OneDrive\Desktop\Seminar004\Write and Pass\obj\Debug\net6.0\Write and Pass.csproj.AssemblyReference.cache
+C:\Users\aleks\OneDrive\Desktop\Seminar004\Write and Pass\obj\Debug\net6.0\Write and Pass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleks\OneDrive\Desktop\Seminar004\Write and Pass\obj\Debug\net6.0\Write and Pass.AssemblyInfoInputs.cache
+C:\Users\aleks\OneDrive\Desktop\Seminar004\Write and Pass\obj\Debug\net6.0\Write and Pass.AssemblyInfo.cs
+C:\Users\aleks\OneDrive\Desktop\Seminar004\Write and Pass\obj\Debug\net6.0\Write and Pass.csproj.CoreCompileInputs.cache
+C:\Users\aleks\OneDrive\Desktop\Seminar004\Write and Pass\obj\Debug\net6.0\Write and Pass.dll
+C:\Users\aleks\OneDrive\Desktop\Seminar004\Write and Pass\obj\Debug\net6.0\refint\Write and Pass.dll
+C:\Users\aleks\OneDrive\Desktop\Seminar004\Write and Pass\obj\Debug\net6.0\Write and Pass.pdb
+C:\Users\aleks\OneDrive\Desktop\Seminar004\Write and Pass\obj\Debug\net6.0\Write and Pass.genruntimeconfig.cache
+C:\Users\aleks\OneDrive\Desktop\Seminar004\Write and Pass\obj\Debug\net6.0\ref\Write and Pass.dll
