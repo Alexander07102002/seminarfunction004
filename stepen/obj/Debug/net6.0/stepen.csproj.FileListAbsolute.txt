@@ -1,0 +1,15 @@
+C:\Users\aleks\OneDrive\Desktop\Seminar004\stepen\bin\Debug\net6.0\stepen.exe
+C:\Users\aleks\OneDrive\Desktop\Seminar004\stepen\bin\Debug\net6.0\stepen.deps.json
+C:\Users\aleks\OneDrive\Desktop\Seminar004\stepen\bin\Debug\net6.0\stepen.runtimeconfig.json
+C:\Users\aleks\OneDrive\Desktop\Seminar004\stepen\bin\Debug\net6.0\stepen.dll
+C:\Users\aleks\OneDrive\Desktop\Seminar004\stepen\bin\Debug\net6.0\stepen.pdb
+C:\Users\aleks\OneDrive\Desktop\Seminar004\stepen\obj\Debug\net6.0\stepen.csproj.AssemblyReference.cache
+C:\Users\aleks\OneDrive\Desktop\Seminar004\stepen\obj\Debug\net6.0\stepen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleks\OneDrive\Desktop\Seminar004\stepen\obj\Debug\net6.0\stepen.AssemblyInfoInputs.cache
+C:\Users\aleks\OneDrive\Desktop\Seminar004\stepen\obj\Debug\net6.0\stepen.AssemblyInfo.cs
+C:\Users\aleks\OneDrive\Desktop\Seminar004\stepen\obj\Debug\net6.0\stepen.csproj.CoreCompileInputs.cache
+C:\Users\aleks\OneDrive\Desktop\Seminar004\stepen\obj\Debug\net6.0\stepen.dll
+C:\Users\aleks\OneDrive\Desktop\Seminar004\stepen\obj\Debug\net6.0\refint\stepen.dll
+C:\Users\aleks\OneDrive\Desktop\Seminar004\stepen\obj\Debug\net6.0\stepen.pdb
+C:\Users\aleks\OneDrive\Desktop\Seminar004\stepen\obj\Debug\net6.0\stepen.genruntimeconfig.cache
+C:\Users\aleks\OneDrive\Desktop\Seminar004\stepen\obj\Debug\net6.0\ref\stepen.dll
